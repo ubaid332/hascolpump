@@ -69,7 +69,7 @@
             <th>Email  </th>
             <th>Password</th>
             <th>Role</th>
-            <th>Record Controller</th>
+            <th>Record Control</th>
             
             
           </tr>
@@ -102,7 +102,7 @@
             <th>Email  </th>
             <th>Password</th>
             <th>Role</th>
-            <th>Record Controller</th>
+            <th>Record Control</th>
            
             
           </tr>
